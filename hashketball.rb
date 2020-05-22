@@ -3,8 +3,12 @@ require 'pry'
 def game_hash
   
   {
-    :home => "Brooklyn Nets",
-    :away => "Charlotte Hornets"
+    :home => {
+      
+    }'Brooklyn Nets',
+    :away => {
+      
+    }'Charlotte Hornets'
   }
   
 end
