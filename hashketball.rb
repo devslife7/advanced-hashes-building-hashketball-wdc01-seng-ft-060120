@@ -4,7 +4,7 @@ def game_hash
   
   {
     :home => "Brooklyn Nets",
-    :away => ""
+    :away => "Charlotte Hornets"
   }
   
 end
