@@ -7,9 +7,15 @@ def game_hash
       :team_name => 'Brooklyn Nets',
       :colors => [],
       :players => [
-          { :player_name => "name",
-            :number => 3,
-            :shoe =>
+          { :player_name => "",
+            :number => 0,
+            :shoe => 0,
+            :points => 0,
+            :rebounds => 0,
+            :assists => 0,
+            :steals => 0,
+            :blocks => 0,
+            :slam_dunks => 0
           },
           {},
           {}
